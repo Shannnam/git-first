@@ -9,6 +9,7 @@ public class File {
     	 System.out.print("开始工作了。。。。。");
     	 System.out.print("happy工作了。。。。。");
 
+    	 System.out.print("开始第二天的工作任务");
 
      }
 }
