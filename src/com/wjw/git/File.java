@@ -10,6 +10,9 @@ public class File {
     	 System.out.print("happy工作了。。。。。");
 
     	 System.out.print("开始第二天的工作任务");
+    	 System.out.print("修复bug,修复完成");
+    	 System.out.print("完成第二天的开发任务");
+
 
      }
 }
